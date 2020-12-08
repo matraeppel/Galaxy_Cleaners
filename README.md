@@ -12,3 +12,22 @@ pourla semaine prochaine il faudrait implementer les ennemis et gerer les collis
 les ennemis sont implantés il y a bien des collisions, par encore celles que l'on recherche 
 
 pour la semaine prochaine, un de nous s'occupe du menu principal, du menu pause , et en parrallèle nous essayons de dessinner nos propres sprites.
+
+24/11
+
+implementation du score et des vies
+vies encore non fonctionelle
+
+30/11
+
+implementation de l'animation d'explosion
+vies bien presentes mais pas de mort finale
+
+
+
+
+
+
+
+
+
